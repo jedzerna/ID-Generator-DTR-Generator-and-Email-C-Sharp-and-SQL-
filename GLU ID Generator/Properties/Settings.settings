@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GLU_ID_Generator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\MyFile\DTRVIEW.PDF</Value>
+    </Setting>
+    <Setting Name="biopath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\MyFile\DTRVIEW.PDF</Value>
+    </Setting>
+    <Setting Name="esender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">markjed92@gmail.com</Value>
+    </Setting>
+    <Setting Name="esenderpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jlcjed1998</Value>
+    </Setting>
+    <Setting Name="smtpserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="portnumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="signature" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;strong&gt;&lt;font face="Tahoma" size="2px" color="#898988"&gt;Jed R. Zerna&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;font face="Sans Serif" size="2px" font-weight="Bold" color="#016601"&gt;G. Uymatiao Jr. Construction&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;font face="Tahoma" size="1px" color="#898988"&gt;49 Sta. Catalina St., Dumaguete City&lt;/font&gt;&lt;br&gt;&lt;font face="Tahoma" size="1px" color="#898988"&gt;Tel. No. (035) 225-4717; (035) 422-7677&lt;/font&gt;&lt;br&gt;&lt;font face="Tahoma" size="1px" color="#898988"&gt;Telefax No. (035) 225-3333&lt;/font&gt;&lt;br&gt; &lt;font face="Tahoma" size="1px" color="#898988"&gt;Mobile (0998) 230-9589&lt;/font&gt;
+</Value>
+    </Setting>
+    <Setting Name="ssl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="attachment" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Jed Zerna\Desktop\Biometric</Value>
+    </Setting>
+    <Setting Name="pathCon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Jed Zerna\source\repos\GLU ID Generator\GLU ID Generator</Value>
+    </Setting>
+    <Setting Name="pspath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dbcon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DB\DBEmployee.mdf;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="dbDRConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=JED-PC\GLUINVENTORY;Initial Catalog=dbDR;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=JED-PC\GLUINVENTORY;Initial Catalog=dbDR;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="DBEmployeeConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DBEmployee.mdf;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DBEmployee.mdf;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
